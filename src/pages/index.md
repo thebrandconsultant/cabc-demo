@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Big Data powering Big Change
+title: Big Data powering Huge Change
 image: /img/covertest.jpg
 heading: Big Data powering Big Change
 subheading: Big Data powering Big Change
