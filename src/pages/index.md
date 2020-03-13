@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Big Data powering Big Change
+image: /img/covertest.jpg
+heading: Big Data powering Big Change
+subheading: Big Data powering Big Change
 mainpitch:
-  title: Why Kaldi
+  title: Who are we?
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
